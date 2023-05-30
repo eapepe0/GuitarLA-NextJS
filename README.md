@@ -1,34 +1,20 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# GuitarLA - Next js
 
-## Getting Started
+Proyecto realizado en **React** , utilice **Next js** , **URL dinamicas**, **Layout**,**Meta**, componente **Image** ,**useRouter**, consumo de **Api**, **getStaticProps** y **getStaticPaths **, **getServerSideProps** ,**fetch con Promesas** , **Nested Routes**, **Context API** , **Armado de carrito** , **LocalStorage** en **Next** , **Hydratation Error** .
 
-First, run the development server:
+## Deploy
 
-```bash
-npm run dev
-# or
-yarn dev
-```
+[Link a la pagina]()
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Capturas
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+![screen0](https://raw.githubusercontent.com/eapepe0/GuitarLA-NextJS/main/screen0.jpg)
+![screen1](https://raw.githubusercontent.com/eapepe0/GuitarLA-NextJS/main/screen1.jpg)
+![screen2](https://raw.githubusercontent.com/eapepe0/GuitarLA-NextJS/main/screen2.jpg)
+![screen3](https://raw.githubusercontent.com/eapepe0/GuitarLA-NextJS/main/screen3.jpg)
+![screen4](https://raw.githubusercontent.com/eapepe0/GuitarLA-NextJS/main/screen4.jpg)
+![screen5](https://raw.githubusercontent.com/eapepe0/GuitarLA-NextJS/main/screen5.jpg)
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+## Performance
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+![performance](https://raw.githubusercontent.com/eapepe0/GuitarLA-NextJS/main/performance.jpg)
