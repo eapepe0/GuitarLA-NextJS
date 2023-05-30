@@ -1,6 +1,6 @@
 # GuitarLA - Next js
 
-Proyecto realizado en **React** , utilice **Next js** , **URL dinamicas**, **Layout**,**Meta**, componente **Image** ,**useRouter**, consumo de **Api**, **getStaticProps** y **getStaticPaths **, **getServerSideProps** ,**fetch con Promesas** , **Nested Routes**, **Context API** , **Armado de carrito** , **LocalStorage** en **Next** , **Hydratation Error** .
+Proyecto realizado en **React** , utilice **Next js** , **URL dinamicas**, **Layout**,**Meta**, componente **Image** ,**useRouter**, consumo de **Api**, **getStaticProps** y **getStaticPaths**, **getServerSideProps** ,**fetch con Promesas** , **Nested Routes**, **Context API** , **Armado de carrito** , **LocalStorage** en **Next** , **Hydratation Error** .
 
 ## Deploy
 
