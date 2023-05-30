@@ -4,7 +4,7 @@ Proyecto realizado en **React** , utilice **Next js** , **URL dinamicas**, **Lay
 
 ## Deploy
 
-[Link a la pagina]()
+[Link a la pagina](https://guitar-la-next-js-tau.vercel.app/)
 
 ## Capturas
 
